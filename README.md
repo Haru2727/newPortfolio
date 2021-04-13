@@ -33,7 +33,7 @@
 
 ## Contribution
 
-    I forked a repo from github which is indicated on my page. 
+    
 
 ## License
 
